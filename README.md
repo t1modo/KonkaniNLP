@@ -1,6 +1,6 @@
 # Konkani Idiom and Metaphor Classification
 
-This repository contains code for classifying idiomatic expressions and metaphors in the Konkani language using a **BERT-LSTM** neural network architecture.
+This repository contains code for classifying idiomatic expressions and metaphors in the Konkani language using a **BERT+LSTM** neural network architecture.
 
 ---
 
