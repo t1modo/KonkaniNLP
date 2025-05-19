@@ -6,7 +6,7 @@ This repository contains code for classifying idiomatic expressions and metaphor
 
 ## 📊 Dataset
 
-The project uses the **Konidioms Corpus** stored in `dataset/Konkani_Dataset.xlsx`. This is the first dataset of idioms in the Konkani language and consists of:
+The project uses the **Konkani Dataset** stored in `dataset/Konkani_Dataset.xlsx`. This is the first dataset of annotated metaphors in the Konkani language and consists of:
 
 - **6,520 total sentences**
   - 4,399 idiomatically sensed sentences  
@@ -16,7 +16,7 @@ The project uses the **Konidioms Corpus** stored in `dataset/Konkani_Dataset.xls
   - 383 non-metaphorical
 
 Each entry in the dataset includes:
-- The idiomatic expression in Konkani
+- The expression in Konkani
 - The sentence using the expression
 - Labels indicating whether the usage is literal or idiomatic
 - Labels indicating whether the expression is metaphorical
